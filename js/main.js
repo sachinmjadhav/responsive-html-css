@@ -15,6 +15,6 @@ $("#top").on("click", function() {
     {
       scrollTop: 0
     },
-    1500
+    2000
   );
 });
